@@ -31,6 +31,8 @@ if (isset($_POST["Submit"])) {
 }
 ?>
 
+<-- Siapkan kopi dan ucapkan "WHAT THE FUCK MEN"-->
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
